@@ -1,5 +1,5 @@
 {
-  "name": "dfm-output-platform-pro",
+  "name": "dfm-output-platform-pro-v2",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -12,10 +12,7 @@
     "@vitejs/plugin-react": "latest",
     "vite": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "lucide-react": "latest",
-    "recharts": "latest",
-    "papaparse": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {}
 }
